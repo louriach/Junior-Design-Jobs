@@ -1,2 +1,2 @@
 <?php
-include "../env.php";
+include "env.php";
